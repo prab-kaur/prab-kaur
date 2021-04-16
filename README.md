@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prab-kaur
-- 👀 I’m interested in Coding
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning how to use Git and Jenkins
 - 💞️ I’m looking to collaborate on how to create structure on repositiories. 
 - 📫 How to reach me ...
